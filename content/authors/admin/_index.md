@@ -42,7 +42,7 @@ education:
   - area: MS Computer Science - Game Development
     institution: University of Southern California
     date_start: 2023-08-20
-    date_end: 2025-6-1
+    date_end: 2025-06-01
     summary: |
       GPA: 4.0/4.0
 
@@ -53,7 +53,7 @@ education:
   - area: BSc Computer Science - Minor Creative Media
     institution: City University of Hong Kong
     date_start: 2019-09-01
-    date_end: 2023-6-1
+    date_end: 2023-06-01
     summary: |
       GPA: 3.8/4.3
       

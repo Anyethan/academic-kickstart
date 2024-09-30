@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research&Work
 cms_exclude: true
 
 # View.

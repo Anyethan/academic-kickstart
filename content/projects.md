@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Project'
 date: 2024-05-19
 type: landing
 
@@ -15,7 +15,7 @@ sections:
       text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - project
+          - Project
     design:
       view: article-grid
       fill_image: false
