@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/hugo/</link>
       <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Hugo</title>
@@ -13,27 +13,13 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Physical Simulation Projects</title>
+      <link>http://localhost:1313/project/physical-simulation/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/physical-simulation/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Mass Spring system, Keyframe insertion, Inverse Kinematic Projects in C++ and FEM for Anisotropic materials (working) in Taichi&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -52,7 +38,7 @@
 
 
 
-&lt;div id=&#34;chart-269841357&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-561793284&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -70,7 +56,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-269841357&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-561793284&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -362,6 +348,42 @@ data.head()
   &lt;/span&gt; Python&lt;/p&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>3D Human Rendering (Separable Subsurface Scattering)</title>
+      <link>http://localhost:1313/project/r3d-human-rendering/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/r3d-human-rendering/</guid>
+      <description>&lt;p&gt;(The code is hidden as a group project)
+A 3D graphic group project, achieving URP, hair anisotropy, and skin separable subsurface scattering under
+Unity engine. My Work is about all parts of skin separable subsurface scattering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hand-scratching Gesture Recognition on AR Glasses</title>
+      <link>http://localhost:1313/project/ar/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/ar/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Enhance user experience and interactivity of AR glasses through hand-scratching gesture recognition under Dr Kening
+Zhu’s supervision.&lt;/li&gt;
+&lt;li&gt;Use CNN models to analyze the sound of scratching the AR glasses leg in different ways in real-time.&lt;/li&gt;
+&lt;li&gt;Develop an Android application to take the recording and real-time recognition function and control the AR glasses.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>NLP Emotion Analysis in Finance</title>
+      <link>http://localhost:1313/project/nlp/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/nlp/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Give users (like investors) a conclusion of people’s sentiment trends towards some specific companies.&lt;/li&gt;
+&lt;li&gt;Use deep learning and NLP (Natural Language Processing) techniques learned from online courses and apply them to
+select and build models under Dr Linqi Song’s supervision.&lt;/li&gt;
+&lt;li&gt;Analyze the sentiment of large amounts of comments with Logistic Regression and BERT&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>

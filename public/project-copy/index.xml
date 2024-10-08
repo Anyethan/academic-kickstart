@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Copies | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/project-copy/</link>
+      <atom:link href="http://localhost:1313/project-copy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project Copies</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Project Copies</title>
+      <link>http://localhost:1313/project-copy/</link>
+    </image>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>http://localhost:1313/project-copy/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project-copy/scikit/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Physical Simulation Projects</title>
+      <link>http://localhost:1313/project-copy/physical-simulation/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project-copy/physical-simulation/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Mass Spring system, Keyframe insertion, Inverse Kinematic Projects in C++ and FEM for Anisotropic materials (working) in Taichi&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hand-scratching Gesture Recognition on AR Glasses</title>
+      <link>http://localhost:1313/project-copy/ar/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project-copy/ar/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Enhance user experience and interactivity of AR glasses through hand-scratching gesture recognition under Dr Kening
+Zhu’s supervision.&lt;/li&gt;
+&lt;li&gt;Use CNN models to analyze the sound of scratching the AR glasses leg in different ways in real-time.&lt;/li&gt;
+&lt;li&gt;Develop an Android application to take the recording and real-time recognition function and control the AR glasses.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
